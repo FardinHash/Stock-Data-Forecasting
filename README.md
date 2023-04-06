@@ -7,4 +7,4 @@ Used:
 - Logistic Regression
 <br>
 
-Support Vector Machine, Linear Regression, Deep Neural Network used for predict Next 7 days. But Logistic Regression used on whole test data but not for next 7 days prediction. 
+Support Vector Machine, Linear Regression, Deep Neural Network, Logistic Regression used for predict Next 7 days. 
